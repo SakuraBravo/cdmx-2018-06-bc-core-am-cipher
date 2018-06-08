@@ -6,6 +6,21 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <form> <!--Utilizaré los imput que usé en la trivia-->
+      <input type="text" id="entrada" placeholder="Tu texto aquí"><!--Aquí entra el texto que se va a codificar-->
+      <br>
+      <br>
+      <input type="text" id="offset" placeholder="Codigo espia aquí"> <!--Aquí va el offset-->
+      <br>
+      <br>
+      <input type="text" id="salida"  placeholder="Tu texto espia aquí">
+      <br>
+      <br>
+      <input type="button" value="Enviar" onclick="introducirTexto()"> <!--Aquí activamos la función con un onclick-->
+      <br>
+      <p id="demo"></p>
+      <p id="demo2"></p>
+      <script type="text/javascript" src="app.js"></script>
     <div id="root"></div>
     <script src="cipher.js"></script>
     <script src="index.js"></script>
