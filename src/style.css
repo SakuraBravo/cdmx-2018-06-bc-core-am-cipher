@@ -1,0 +1,31 @@
+h1 {
+  font-size: 20px;
+  font-family: "Futura"; /* Google usa Futura en su logo desde el 2014 */
+  letter-spacing: 1px;
+  color: #fff;
+  background: #4f8bf5;
+  padding: 10px 20px;
+}
+
+
+img{/* Logo alterado del Google Traslator */
+  width: 35px;
+  margin: auto;
+  display: block;
+  padding: 5px;
+}
+.btn {/* Class de los Botones */
+  font-size: 13px;
+  font-family: "Futura";
+
+}
+
+/*@media (min-width: @screen-lg-min) {
+  h1 {
+    font-size: 20px;
+    font-family: "Futura";
+    color: #fff;
+    background: #4f8bf5;
+    padding: 5px 10px ;
+   }
+=_=  no me salió... investigaré el porqué después U_U */

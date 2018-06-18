@@ -2,7 +2,7 @@ window.cipher = {
 
 // Función donde se procesa el resultado de codificar
   encode : (intro, offset) => {
-    let respuesta = "";
+    let respuesta = ""; // Dejo el string vacio para que contenga el resultado de for
     for (let i=0; i< intro.length; i++){
       let ascii = (intro[i]).charCodeAt();//Variable con codigo ASCII
       let codigo = cipher.formula1 (ascii, offset); //Declaro los argumentos que se aplican a la función que codifica el mensaje
@@ -54,5 +54,5 @@ formula2 : (x , y) => { //Declaro la variable para guardar lo obtenido en la fun
 }
 },
 
-	createCipherWithOffset: () =>{}
+	createCipherWithOffset: () =>{} // Declaro la función para pasar la prueba pero queda pendiente que contenga las funciones de encode y decode
 };

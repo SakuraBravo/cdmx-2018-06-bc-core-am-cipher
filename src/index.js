@@ -15,7 +15,3 @@ const textoDecodificado = () => { // Sintaxis ES6
   let offset = parseInt(key.value);
   document.getElementById("demo").innerHTML = cipher.decode(intro,offset);
 }
-
-    //for (let i=0; i< intro.length; i++){ //For para separar el string si sale.
-    //console.log(intro.substr(i,1));
-    //}
