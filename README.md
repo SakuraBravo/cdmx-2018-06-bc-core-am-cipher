@@ -16,18 +16,18 @@ descifrarlo. Así que ahora te toca aplicar tus superpoderes 😎
 ## Objetivos
 
 De acuerdo al contexto situacional del reto, posiciono al usuario dentro del rango de mi edad y similar a mi perfil de recursos y hábitos, por lo tanto puedo partir de ciertas suposiciones para crear una proto-persona.
-####Pero primero, ¿qué es una protopersona?
+###Pero primero, ¿qué es una protopersona?
 Una persona es un personaje ficticio que representa el arquetipo de nuestro target, este target debe ser definido con base a investigaciones previas. Una proto-persona se basa en acercamientos mediante supuestos, no requiere una investigación exhaustiva y es “Low fidelity” así que trabajar con proto-personas debe ser sólo una parte del proceso para definir el target de usuario, así como dar ideas hacia dónde dirigir los esfuerzos de _UR_ y dar cabida a avances e hipótesis en nuestra búsqueda de soluciones a las necesidades del usuario como también posibles soluciones de interfaces.
 
-####Proto Persona
+###Proto Persona
 
-Nombre : Fyl.
-Edad:	30 años.
-Genero:	Masculino.
-Ocupación:	Gerente de Operaciones.
-Status:		En una relación.
-Intereses:		Tecnología, Werables, Deportes, Cine, su Novia.
-Personalidad:	Gracioso, inteligente, nervioso.
+/Nombre : Fyl./
+/Edad:	30 años./
+/Genero:	Masculino./
+/Ocupación:	Gerente de Operaciones./
+/Status:		En una relación./
+/Intereses:		Tecnología, Werables, Deportes, Cine, su Novia./
+/Personalidad:	Gracioso, inteligente, nervioso./
 
 Metas:		
 * Pasar más tiempo con su pareja.
@@ -41,9 +41,9 @@ Pain Points:
 
 
 *Requerimientos:*
-1.- El producto tendrá la capacidad de usarse en dispositivos móviles: El usuario gusta de la tecnología y werables, por lo que es primordial que el 		producto esté disponible en una versión para movil.
-2.-El producto sólo cumplirá las funciones de codificar y decodificar: El usuario tiende a estrenarse con complicaciones así que es importante mantener 	la solución simple.
-3.-El producto se presentará de una forma discreta u oculta: El usuario no es bueno guardando secretos, por lo que el producto debe de ayudarlo a 		cumplir con este cometido.
+* 1.- El producto tendrá la capacidad de usarse en dispositivos móviles: El usuario gusta de la tecnología y werables, por lo que es primordial que el 		producto esté disponible en una versión para movil.
+* 2.-El producto sólo cumplirá las funciones de codificar y decodificar: El usuario tiende a estrenarse con complicaciones así que es importante mantener 	la solución simple.
+* 3.-El producto se presentará de una forma discreta u oculta: El usuario no es bueno guardando secretos, por lo que el producto debe de ayudarlo a 		cumplir con este cometido.
 
 
 
