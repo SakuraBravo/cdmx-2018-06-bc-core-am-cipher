@@ -54,9 +54,5 @@ formula2 : (x , y) => { //Declaro la variable para guardar lo obtenido en la fun
 }
 },
 
-
-  // ...
-//};
-
 	createCipherWithOffset: () =>{}
 };

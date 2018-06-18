@@ -6,16 +6,14 @@ let key = document.getElementById("offset");// Declaro de dónde voy a obtener e
 const textoCodificado = () => { // Sintaxis ES6
   let intro = cadena.value;
   let offset = parseInt(key.value);
-  document.getElementById("demo").innerHTML = intro + " " + offset; // Prueba de que entra bien la info del input
-  document.getElementById("demo2").innerHTML = cipher.encode(intro,offset);
+  document.getElementById("demo").innerHTML = cipher.encode(intro,offset);
 }
 
 //Función ONCLICK Decodificar
 const textoDecodificado = () => { // Sintaxis ES6
   let intro = cadena.value;
   let offset = parseInt(key.value);
-  document.getElementById("demo").innerHTML = intro + " " + offset; // Prueba de que entra bien la info del input
-  document.getElementById("demo2").innerHTML = cipher.decode(intro,offset);
+  document.getElementById("demo").innerHTML = cipher.decode(intro,offset);
 }
 
     //for (let i=0; i< intro.length; i++){ //For para separar el string si sale.
