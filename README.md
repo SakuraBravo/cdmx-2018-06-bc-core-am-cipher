@@ -16,10 +16,10 @@ descifrarlo. Así que ahora te toca aplicar tus superpoderes 😎
 ## Objetivos
 
 De acuerdo al contexto situacional del reto, posiciono al usuario dentro del rango de mi edad y similar a mi perfil de recursos y hábitos, por lo tanto puedo partir de ciertas suposiciones para crear una proto-persona.
-###Pero primero, ¿qué es una protopersona?
+### Pero primero, ¿qué es una protopersona?
 Una persona es un personaje ficticio que representa el arquetipo de nuestro target, este target debe ser definido con base a investigaciones previas. Una proto-persona se basa en acercamientos mediante supuestos, no requiere una investigación exhaustiva y es “Low fidelity” así que trabajar con proto-personas debe ser sólo una parte del proceso para definir el target de usuario, así como dar ideas hacia dónde dirigir los esfuerzos de _UR_ y dar cabida a avances e hipótesis en nuestra búsqueda de soluciones a las necesidades del usuario como también posibles soluciones de interfaces.
 
-###Proto Persona
+### Proto Persona
 
 /Nombre : Fyl./
 /Edad:	30 años./
