@@ -61,11 +61,11 @@ Otras opciones que encontré en mi búsqueda se referían más a la necesidad de
 
 Dentro de esta misma investigación recordé una app que me habían mostrado tiempo atrás que te permitía guardar una galería de fotos oculta en tu celular bajo la pantalla de una app calculadora, la idea es que la App pasa desapercibida en el universo de apps del celular pues tanto su interfaz inicial (donde ingresabas la clave para entrar a la galería) como su ícono de apertura son totalmente parecidos a una aplicación de una calculadora, por lo que cumple la doble función de contener imágenes privadas y mantenerlas ocultas y seguras.
 
-+[![APP KYCALC](https://goo.gl/cXJdzQ)
+![APP KYCALC](https://goo.gl/cXJdzQ)
 
 Con esto en mente y mientras continuaba el desarrollo de la funcionalidad del producto, busqué tareas que fueran similares a la de cifrar y descifrar una clave lo cual no fue difícil de deducir que la acción más próxima es la de traducir de un idioma a otro.
 
-(IMAGEN DE DIAGRAMA DE FLUJO DE TRADUCIR Y DE DECIFRAR)
+![Diagrama de flujo1](https://goo.gl/KY5f5i) ![Diagrama de flujo2](https://goo.gl/jd1gHs)
 
 ### Entrevistas
 Realicé entrevistas cortas a usuarios de traductores de idiomas (3) con las siguientes interrogantes:
@@ -112,7 +112,7 @@ Para poder usar la app Cipeher Translator los usuarios tenían que establecer pr
 
 * También comentó que se podría hacer una reducción en el número de botones ya que Google Translate sólo ocupa uno.
 
-[![Pruebas de usuario](https://goo.gl/M2jPUC) [![Pruebas de usuario](https://goo.gl/M2jPUC)
+[![Pruebas de usuario](https://goo.gl/M2jPUC) [![Pruebas de usuario](https://goo.gl/1mH6PQ)
 
 
 __________________________________________
