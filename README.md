@@ -14,6 +14,7 @@ personas (partícipes de la fiesta) puedan tener una interfaz para
 descifrarlo. Así que ahora te toca aplicar tus superpoderes 😎
 
 ## Parte obligatoria
+https://goo.gl/SyTZdx
 
 ### Definición del producto
 
