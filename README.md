@@ -116,6 +116,3 @@ Para poder usar la app Cipeher Translator los usuarios tenían que establecer pr
 
 
 __________________________________________
-
-
-### Desarrollo de Código
