@@ -49,7 +49,10 @@ Pain Points:
 ## Investigación de referentes.
 
 El usuario (Proto-Persona) necesita un producto que le permita compartir mensajes codificados con sus conocidos de una forma simple y también fácil de ocultar. Con estos requerimiento presentes, me di a la tarea de buscar productos existentes que incluyeran el Cifrado Cesar o algún tipo de cifrado, la primera página que aparece en las búsquedas de Cifrado Cesar es: https://www.dcode.fr/caesar-cipher, esta página te permite codificar mensajes pero su interfaz es muy complicada y lleva tiempo comprenderla. 
-[![Página de Cifrado cesar](https://goo.gl/SyTZdx)
+
+
+
+![Página de Cifrado cesar](https://goo.gl/SyTZdx)
 
 Otras opciones que encontré en mi búsqueda se referían más a la necesidad de seguridad de los mensajes, pero con respecto a que no se pudieran acceder a ellos por algún tipo de hacking o intercepción entre el punto A al B, o sea entre el curso de la información de un usuario a otro (comunicación cifrada extremo a extremo), por lo que surgieron muchas apps que cifraban los mensajes entre los puntos y los descifraban para su fácil lectura, pero aunque ocurra la acción de cifrado el usuario no se percata de esta acción ya que el resultado que obtiene es un mensaje legible. Apps como CryptoCat, Telegram y ahora WhatsApp ponen a disposición del usuario la capacidad de cifrar el contenido de sus mensajes como un plus de seguridad en su servicio de mensajería instantánea, pero no resuelven la necesidad de mi Proto-Persona de obtener mensajes cifrados que sólo él pueda interpretar en el momento que él decida.
 [![Crypto Cat](https://goo.gl/xHfcW1)
@@ -57,7 +60,8 @@ Otras opciones que encontré en mi búsqueda se referían más a la necesidad de
 ## Insights
 
 Dentro de esta misma investigación recordé una app que me habían mostrado tiempo atrás que te permitía guardar una galería de fotos oculta en tu celular bajo la pantalla de una app calculadora, la idea es que la App pasa desapercibida en el universo de apps del celular pues tanto su interfaz inicial (donde ingresabas la clave para entrar a la galería) como su ícono de apertura son totalmente parecidos a una aplicación de una calculadora, por lo que cumple la doble función de contener imágenes privadas y mantenerlas ocultas y seguras.
-[![APP KYCALC](https://goo.gl/cXJdzQ)
+
++[![APP KYCALC](https://goo.gl/cXJdzQ)
 
 Con esto en mente y mientras continuaba el desarrollo de la funcionalidad del producto, busqué tareas que fueran similares a la de cifrar y descifrar una clave lo cual no fue difícil de deducir que la acción más próxima es la de traducir de un idioma a otro.
 
